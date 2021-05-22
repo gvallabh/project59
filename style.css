@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    background-color: wheat;
+    color:deepskyblue;
+    font-size: 50px;    
+}
+h4{
+    background-color: deeppink;
+    font-size:30px;
+    text-align: center;
+}
+html{
+    scroll-behavior:smooth;
+}
+h2{
+    text-align: center;
+    background-color: cornflowerblue;
+    color:teal;
+    font-size: 35px; 
+    
+}
+h3{
+    text-align: center;
+    background-color: lightcoral;
+    color:skyblue;
+    font-size: 35px;
+    
+    
+}
+.links{
+    float:left;
+    color:chartreuse;
+    padding-top:10px;
+    padding-left:20px;
+    padding-bottom:15px ;
+    padding-right:25px ;
+}
+.linkshover{
+    background-color: lightseagreen;
+}
+h5{
+    font-size: 30px;
+    text-align: center;
+}
+p2{
+ font-size: 30px;
+}
